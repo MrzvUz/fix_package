@@ -1,0 +1,13 @@
+include fix_package/*.cpp
+
+include fix_package/spec/*.xml
+include fix_package/C++/*.cc
+include fix_package/C++/*.h
+include fix_package/C++/*.cpp
+include fix_package/C++/*.hpp
+
+include fix_package/C++/double-conversion/*.cc
+include fix_package/C++/double-conversion/*.c
+include fix_package/C++/double-conversion/*.h
+include fix_package/C++/double-conversion/*.cpp
+include fix_package/C++/double-conversion/*.hpp
