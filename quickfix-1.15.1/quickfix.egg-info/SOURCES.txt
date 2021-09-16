@@ -1,7 +1,6 @@
 LICENSE
 MANIFEST.in
 README.md
-_quickfix.cpython-39-x86_64-linux-gnu.so
 pyproject.toml
 quickfix.py
 quickfix40.py
